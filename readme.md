@@ -38,7 +38,7 @@ As a Customer, I can
 
 
 ### Database Models
-![Alt Text](https://drive.google.com/uc?export=view&id=1UtrEE2JhHsDTlQlMGyohtYnvY9tQA6fw)
+![Database model image](https://drive.google.com/uc?export=view&id=1UtrEE2JhHsDTlQlMGyohtYnvY9tQA6fw)
 
 
 ### API Routes
