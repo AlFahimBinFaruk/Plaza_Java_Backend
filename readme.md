@@ -24,15 +24,15 @@ As a Customer, I can
 
 * Login
 * View & edit profile(first,last name,email,password)
-* Pruchase new products if available quantity.
+* Purchase new products if available quantity.
 * Cancel purchase.
-* See my pruchase history
-* Checkout- currently we only have COD feature.
+* See my purchase history
+* Checkout - currently we only have COD feature.
 
 ### Technology
 
-* Language: Java 22
-* Build Tool: Maeven
+* Language: Java 17
+* Build Tool: Maven
 * Spring boot 3.0
 * Database: MongoDB
 
