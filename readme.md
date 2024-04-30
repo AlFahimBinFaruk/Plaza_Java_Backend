@@ -1,4 +1,7 @@
 ## Plaza Backend API
+* Live Link: todo
+* Frontend : todo
+* Admin panel : todo
 
 ### Client Requirements
 
