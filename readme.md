@@ -36,9 +36,18 @@ As a Customer, I can
 * Spring boot 3.0
 * Database: MongoDB
 
-
 ### Database Models
-![Database model image](https://drive.google.com/uc?export=view&id=1fUP_Zbt3zhHXvIPe400ccX7XACpZ8Ish)
+![Database model image](https://drive.google.com/uc?export=view&id=16ElTOrp36ehHE0indfRuSdFUP0UHe90t)
+
+### Screenshots
+![image](https://drive.google.com/uc?export=view&id=1e746_8xASRpl4hcH56PQW-b4yODdvYNx)
+![image](https://drive.google.com/uc?export=view&id=1Pt0ChzYn6h_w5PGTerMhDLBX2hLfU2_z)
+![image](https://drive.google.com/uc?export=view&id=1GsInLjFN7V_HgAL_uVZRvhome1YvMdSf)
+![image](https://drive.google.com/uc?export=view&id=1FbCOOoisjFSjS_tdKUFm66PS30S2AUeD)
+![image](https://drive.google.com/uc?export=view&id=1jNlv49Q4nXshQFXtxfIi39kn0pCpyjX6)
+![image](https://drive.google.com/uc?export=view&id=1vrYWtNp9M_fUnwyI3ZYvL1uzYodXqfgl)
+![image](https://drive.google.com/uc?export=view&id=1rfM9XqQkidqiC2F8wlsDIcG4D_MxJxq0)
+![image](https://drive.google.com/uc?export=view&id=1v-nD-FlNmisglmWsfC1RWNnpu0YKYPBl)
 
 
 ### API Routes
