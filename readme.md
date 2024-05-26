@@ -40,13 +40,21 @@ As a Customer, I can
 ![Database model image](https://drive.google.com/uc?export=view&id=16ElTOrp36ehHE0indfRuSdFUP0UHe90t)
 
 ### Screenshots
+* Home page
 ![image](https://drive.google.com/uc?export=view&id=1e746_8xASRpl4hcH56PQW-b4yODdvYNx)
+* Product Details page
 ![image](https://drive.google.com/uc?export=view&id=1Pt0ChzYn6h_w5PGTerMhDLBX2hLfU2_z)
+* Cart
 ![image](https://drive.google.com/uc?export=view&id=1GsInLjFN7V_HgAL_uVZRvhome1YvMdSf)
+* Order History
 ![image](https://drive.google.com/uc?export=view&id=1FbCOOoisjFSjS_tdKUFm66PS30S2AUeD)
+* Order Details
 ![image](https://drive.google.com/uc?export=view&id=1jNlv49Q4nXshQFXtxfIi39kn0pCpyjX6)
+* Profile
 ![image](https://drive.google.com/uc?export=view&id=1vrYWtNp9M_fUnwyI3ZYvL1uzYodXqfgl)
+* Register
 ![image](https://drive.google.com/uc?export=view&id=1rfM9XqQkidqiC2F8wlsDIcG4D_MxJxq0)
+* Login
 ![image](https://drive.google.com/uc?export=view&id=1v-nD-FlNmisglmWsfC1RWNnpu0YKYPBl)
 
 
